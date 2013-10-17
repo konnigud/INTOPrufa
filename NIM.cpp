@@ -36,6 +36,7 @@ int main( )
 	{
 		cout << endl << endl << endl;
 		cout << " Hafrun mun rusta tessum leik! " << endl;
+		cout << " Nei! Anna mun rusta tessu i drasl! " << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
