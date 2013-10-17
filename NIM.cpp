@@ -1,4 +1,4 @@
-//NIM dabs október 1997
+//NIM dabs október 1996
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -35,6 +35,7 @@ int main( )
 	do
 	{
 		cout << endl << endl << endl;
+		cout << " Hafrun mun rusta tessum leik! " << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
